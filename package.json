@@ -1,6 +1,6 @@
 {
-  "name": "webpack-filelist-plugin",
-  "version": "1.0.0",
+  "name": "webpack-page-assets-plugin",
+  "version": "0.0.5",
   "description": "webpack plugin for generating file list every page",
   "main": "lib/index.js",
   "engines": {
