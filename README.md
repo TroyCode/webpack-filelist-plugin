@@ -63,7 +63,7 @@ Default: `<webpack-config>.output.publicPath`
 
 A path prefix that will be added to values of the manifest.
 
-#### `exclude`
+#### `excludePage` (not complete)
 
 Type: `Array<RegExp | String>`
 
